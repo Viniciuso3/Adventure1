@@ -2,7 +2,7 @@
 lib/
 Scripts/
 pyvenv.cfg/
-
+base_statics/global/image/bootstrap-icons/
 
 #django
 *.log
